@@ -1,0 +1,19 @@
+# raw_label -> coarse_label
+ifcb:
+  diatom_chain: diatom
+  diatom_single: diatom
+  dinoflagellate: dinoflagellate
+  copepod: copepod
+  tintinnid: tintinnid
+  detritus: detritus
+  bubble: artifact
+  unknown: other
+
+zooscan:
+  diatoms: diatom
+  dino: dinoflagellate
+  copepoda: copepod
+  tintinnida: tintinnid
+  detritus: detritus
+  artefact: artifact
+  unknown: other

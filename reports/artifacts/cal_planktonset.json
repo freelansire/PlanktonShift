@@ -1,0 +1,21 @@
+{
+  "dataset": "zooscan",
+  "allowed": [
+    "artifact",
+    "detritus",
+    "diatom",
+    "other",
+    "protist"
+  ],
+  "T": 10.0,
+  "val_n": 12147,
+  "nll_before": 2.5353739261627197,
+  "nll_after": 0.8232836723327637,
+  "ece_before": 0.9205603803529989,
+  "ece_after": 0.561008095741272,
+  "brier_before": 1.6949360370635986,
+  "brier_after": 0.6294674277305603,
+  "vocab": [
+    "other"
+  ]
+}

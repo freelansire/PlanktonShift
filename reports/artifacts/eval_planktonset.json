@@ -1,0 +1,47 @@
+{
+  "dataset": "zooscan",
+  "n": 60736,
+  "allowed": [
+    "artifact",
+    "detritus",
+    "diatom",
+    "other",
+    "protist"
+  ],
+  "ece": 0.9206195467537381,
+  "brier": 1.6951535940170288,
+  "report": {
+    "other": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 60736.0
+    },
+    "micro avg": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 60736.0
+    },
+    "macro avg": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 60736.0
+    },
+    "weighted avg": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1-score": 0.0,
+      "support": 60736.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      0
+    ]
+  ],
+  "vocab": [
+    "other"
+  ]
+}
