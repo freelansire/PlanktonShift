@@ -1,9 +1,16 @@
-tensorflow>=2.14
-numpy
-pandas
-pyyaml
-scikit-learn
-matplotlib
+streamlit==1.32.2
+
+tensorflow==2.16.2
+keras==3.3.3
+numpy==1.26.4
+
+# Utils
 pillow
 opencv-python
-streamlit
+pandas
+scikit-learn
+matplotlib
+pyyaml
+
+# Protobuf pin to avoid descriptor issues
+protobuf==4.25.3
