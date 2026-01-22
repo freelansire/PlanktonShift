@@ -1,16 +1,15 @@
-streamlit==1.32.2
+streamlit==1.41.0
 
-tensorflow==2.16.2
-keras==3.3.3
-numpy==1.26.4
 
-# Utils
-pillow
-opencv-python
+tensorflow==2.20.0
+
+
+protobuf==5.28.3
+
+
+opencv-python-headless==4.13.0.90
+pillow==12.1.0
 pandas
 scikit-learn
-matplotlib
 pyyaml
-
-# Protobuf pin to avoid descriptor issues
-protobuf==4.25.3
+matplotlib
