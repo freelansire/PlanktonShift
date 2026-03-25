@@ -21,7 +21,7 @@ Cross-instrument plankton image classification + calibration + Grad-CAM + simple
     
     --class names were mapped to label_map.yaml as seen here https://whoigit.github.io/whoi-plankton/index.html
 
-    NOTE: The original dataset contains over 3.5 million images. To fit compute constraints and accelerate experimentation, model was trained on a reproducible subset (≈75% of the data), selected via stratified sampling to preserve class proportions.
+    NOTE: The original dataset contains over 3.5 million images. To fit compute constraints and accelerate experimentation, model was trained on a reproducible subset (≈75% of the data), selected via stratified sampling to preserve class proportions...
 
     
 
